@@ -1,0 +1,2 @@
+# SampleWebSocketClient
+AndroidでClientとしてWebsocktをするサンプルプログラム
